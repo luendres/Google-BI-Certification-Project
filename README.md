@@ -10,7 +10,6 @@ A data-driven project showcasing insights into customer service trends and repea
 3. [Data Processing](#data-processing)
 4. [Dashboard Creation](#dashboard-creation)
 5. [Findings and Presentation](#findings-and-presentation)
-6. [How to Access](#how-to-access)
 
 ---
 
